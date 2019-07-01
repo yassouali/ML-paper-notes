@@ -9,9 +9,6 @@ from pathlib import Path
 import pickle
 from tqdm import tqdm
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--name", help="A name indicative of the title of the paper")
-args = parser.parse_args()
 DOCUMENTS_PATH = "/home/yassine/Documents/papers_notes/"
 r_match = r'\\title{ \\LARGE \\textbf{(.*?)}'
 
