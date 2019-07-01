@@ -26,7 +26,7 @@ dir_path = Path(DOCUMENTS_PATH)
 folders = [i for i in dir_path.iterdir() if i.name.split('_')[0].isdigit()]
 tex_files = {list(f.glob('*.tex'))[0]:list(f.glob('*.pdf'))[0] for f in folders}
 papers_title = {re.findall(r_match, open(t).read(), re.S)[0].replace('\n', ' '):pdf for t, pdf in tex_files.items()}
-new_papers = [p for p in papers_title.items() if p[0] not in commited_papers][:20]
+new_papers = [p for p in papers_title.items() if p[0] not in commited_papers]
 
 # Copy new notes into this git dir
 cwd = Path.cwd()
