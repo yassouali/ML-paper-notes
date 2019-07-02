@@ -53,3 +53,5 @@
 - U-Net: Convolutional Networks for Biomedical Image Segmentation: [[Paper]](https://arxiv.org/abs/1505.04597) [[Notes]](notes/20_Unet.pdf)
 - dhSegment: A generic deep-learning approach for document segmentation: [[Paper]](https://arxiv.org/abs/1804.10371) [[Notes]](notes/dhSegement.pdf)
 - Deeplab: semantic image segmentation with DCNN, atrous convs and CRFs: [[Paper]](https://arxiv.org/abs/1606.00915) [[Notes]](notes/23_deeplab_v2.pdf)
+- Attention Branch Network: Learning of Attention Mechanism for Visual Explanation: [[Paper]](https://arxiv.org/abs/1812.10025) [[Notes]](notes/57_attention_branch_netwrok.pdf)
+- Attention-based Dropout Layer for Weakly Supervised Object Localization: [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) [[Notes]](notes/58_attention_based_dropout.pdf)
