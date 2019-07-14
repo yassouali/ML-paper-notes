@@ -2,18 +2,17 @@
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
 ## Semi-Supervised Learning
-- Interpolation Consistency Training forSemi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1903.03825) [[Notes]](notes/44_interpolation_consistency_tranining.pdf)
-- Unifying semi-supervised and robust learning by mixup: [[Paper]](https://openreview.net/forum?id=r1gp1jRN_4) [[Notes]](notes/42_mixmixup.pdf)
 - MixMatch: A Holistic Approach toSemi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1905.02249) [[Notes]](notes/45_mixmatch.pdf)
 - Unsupervised Data Augmentation: [[Paper]](https://arxiv.org/abs/1904.12848) [[Notes]](notes/39_unsupervised_data_aug.pdf)
+- Interpolation Consistency Training forSemi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1903.03825) [[Notes]](notes/44_interpolation_consistency_tranining.pdf)
+- Unifying semi-supervised and robust learning by mixup: [[Paper]](https://openreview.net/forum?id=r1gp1jRN_4) [[Notes]](notes/42_mixmixup.pdf)
 - Virtual Adversarial Training:A Regularization Method for Supervised andSemi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1704.03976) [[Notes]](notes/40_virtual_adversarial_training.pdf)
 - Deep Co-Training for Semi-Supervised Image Recognition: [[Paper]](https://arxiv.org/abs/1803.05984) [[Notes]](notes/46_deep_co_training_img_rec.pdf)
-- Semi-Supervised Learning with Ladder Networks: [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
-- Mean teachers are better role models: [[Paper]](https://arxiv.org/abs/1703.01780) [[Notes]](notes/56_mean_teachers.pdf)
 - Semi-Supervised Sequence Modeling with Cross-View Training: [[Paper]](https://arxiv.org/abs/1809.08370) [[Notes]](notes/38_cross_view_semi_supervised.pdf)
-- Temporal Ensembling for Semi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms: [[Paper]](https://arxiv.org/abs/1804.09170) [[Notes]](notes/37_realistic_eval_of_deep_ss.pdf)
 - Temporal Ensembling for Semi-Supervised Learning: [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
+- Mean teachers are better role models: [[Paper]](https://arxiv.org/abs/1703.01780) [[Notes]](notes/56_mean_teachers.pdf)
+- Semi-Supervised Learning with Ladder Networks: [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
 
 
 ## Semantic Segmentation
@@ -23,14 +22,10 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Attention to Scale: Scale-aware Semantic Image Segmentation: [[Paper]](https://arxiv.org/abs/1511.03339) [[Notes]](notes/30_atttention_to_scale.pdf)
 - (DUC, HDC) Understanding Convolution for Semantic Segmentation: [[Paper]](https://arxiv.org/abs/1702.08502) [[Notes]](notes/29_understanding_conv_for_sem_seg.pdf)
 - DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution: [[Paper]](https://arxiv.org/abs/1802.02611) [[Notes]](notes/26_deeplabv3+.pdf)
-- (GCN) Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network: [[Paper]](https://towardsdatascience.com/rev- Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation: [[Paper]](https://arxiv.org/abs/1502.02734) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
-iew-gcn-global-convolutional-network-large-kernel-matters-semantic-segmentation-c830073492d2) [[Notes]](notes/28_large_kernel_maters.pdf)
-- U- Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation: [[Paper]](https://arxiv.org/abs/1502.02734) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
--Net: Convolutional Networks for Biomedical Image Segmentation: [[Paper]](https://arxiv.org/abs/1505.04597) [[Notes]](notes/20_Unet.pdf)
-- F- Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation: [[Paper]](https://arxiv.org/abs/1502.02734) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
-ully Convolutional Networks for Semantic Segmentation: [[Paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) [[Notes]](notes/19_FCN.pdf)
-- D- Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation: [[Paper]](https://arxiv.org/abs/1502.02734) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
-eeplab: semantic image segmentation with DCNN, atrous convs and CRFs: [[Paper]](https://arxiv.org/abs/1606.00915) [[Notes]](notes/23_deeplab_v2.pdf)
+- (GCN) Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network: [[Paper]](https://arxiv.org/abs/1703.02719) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
+- UNet: Convolutional Networks for Biomedical Image Segmentation: [[Paper]](https://arxiv.org/abs/1505.04597) [[Notes]](notes/20_Unet.pdf)
+- Fully Convolutional Networks for Semantic Segmentation: [[Paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) [[Notes]](notes/19_FCN.pdf)
+- Deeplab: semantic image segmentation with DCNN, atrous convs and CRFs: [[Paper]](https://arxiv.org/abs/1606.00915) [[Notes]](notes/23_deeplab_v2.pdf)
 - RefineNet: Multi-path refinement networks for high-resolution semantic segmentation: [[Paper]](https://arxiv.org/abs/1611.06612) [[Notes]](notes/31_refinenet.pdf)
 - Hypercolumns for object segmentation and fine-grained localization: [[Paper]](https://arxiv.org/abs/1411.5752) [[Notes]](notes/24_hypercolumns.pdf)
 
