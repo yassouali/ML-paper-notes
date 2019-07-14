@@ -11,6 +11,7 @@ from tqdm import tqdm
 
 DOCUMENTS_PATH = "/home/yassine/Documents/papers_notes/"
 r_match = r'\\title{ \\LARGE \\textbf{(.*?)}'
+match_year = r'} \\\\ (.*?)}'
 
 # Get the commited papers to avoid duplication
 try:
@@ -23,6 +24,8 @@ dir_path = Path(DOCUMENTS_PATH)
 folders = [i for i in dir_path.iterdir() if i.name.split('_')[0].isdigit()]
 tex_files = {list(f.glob('*.tex'))[0]:list(f.glob('*.pdf'))[0] for f in folders}
 papers_title = {re.findall(r_match, open(t).read(), re.S)[0].replace('\n', ' '):pdf for t, pdf in tex_files.items()}
+papers_year = [re.findall(match_year, open(t).read(), re.S)[0] for t, _ in tex_files.items()]
+papers_title = {(i+' '+k):j for (i,j), k in zip(papers_title.items(), papers_year)}
 new_papers = [p for p in papers_title.items() if p[0] not in commited_papers]
 
 # Copy new notes into this git dir
