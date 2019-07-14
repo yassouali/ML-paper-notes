@@ -3,7 +3,6 @@
 - SegNet: A Deep ConvolutionalEncoder-Decoder Architecture for ImageSegmentation (2016): [[Paper]](https://arxiv.org/pdf/1511.00561) [[Notes]](notes/21_segnet.pdf)
 - Attention Branch Network: Learning of Attention Mechanism for Visual Explanation (2019): [[Paper]](https://arxiv.org/abs/1812.10025) [[Notes]](notes/57_attention_branch_netwrok.pdf)
 - Tell Me Where to Look: Guided Attention Inference Network (2018): [[Paper]](https://arxiv.org/abs/1802.10171) [[Notes]](notes/50_tell_me_where_to_look.pdf)
-- Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/59_exemplar_cnns.pdf)
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms (2018): [[Paper]](https://arxiv.org/abs/1804.09170) [[Notes]](notes/37_realistic_eval_of_deep_ss.pdf)
 - ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016): [[Paper]](https://arxiv.org/abs/1606.02147) [[Notes]](notes/27_enet.pdf)
 - Unifying semi-supervised and robust learning by mixup (2019): [[Paper]](https://openreview.net/forum?id=r1gp1jRN_4) [[Notes]](notes/42_mixmixup.pdf)
