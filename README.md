@@ -1,6 +1,13 @@
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
+## Self-Supervised Learning
+
+- Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
+- Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
+- Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
+- Unsupervised Visual Representation Learning by Context Prediction (2016): [[Paper]](https://arxiv.org/abs/1505.05192) [[Notes]](notes/62_unsupervised_learning_with_context_prediction.pdf)
+
 ## Semi-Supervised Learning
 
 - MixMatch: A Holistic Approach toSemi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.02249) [[Notes]](notes/45_mixmatch.pdf)
@@ -78,7 +85,9 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Convolutional Neural Networks for Page Segmentation of Historical Document Images (2017): [[Paper]](https://arxiv.org/abs/1704.01474) [[Notes]](notes/CNNs_chen.pdf)
 - ICDAR2009 Page Segmentation Competition (2009): [[Paper]](https://ieeexplore.ieee.org/document/5277763) [[Notes]](notes/ICDAR2009.pdf)
 - Amethod for combining complementary techniques for document image segmentation (2009): [[Paper]](https://www.researchgate.net/publication/220600948_A_method_for_combining_complementary_techniques_for_document_image_segmentation) [[Notes]](notes/a_method_for_combining_complementary_techniques.pdf)
-- Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
-- Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
-- Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
-- Unsupervised Visual Representation Learning by Context Prediction (2016): [[Paper]](https://arxiv.org/abs/1505.05192) [[Notes]](notes/62_unsupervised_learning_with_context_prediction.pdf)
+
+
+
+
+
+
