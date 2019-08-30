@@ -91,3 +91,4 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 
 
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (2017): [[Paper]](https://arxiv.org/abs/1603.09246) [[Notes]](notes/63_solving_jigsaw_puzzles.pdf)
