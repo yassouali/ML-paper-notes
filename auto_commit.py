@@ -53,6 +53,7 @@ with open('README.md', 'a') as f:
 		f.write(f'{new_line}\n')
 
 # Git add and commit
+os.system("git pull")
 os.system("git add .")
 os.system(f"git commit -m 'New commit, added {len(new_papers)} papers'")
 os.system("git push")
