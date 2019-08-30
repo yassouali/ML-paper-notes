@@ -56,10 +56,12 @@ f = open("README.md", "r")
 contents = f.readlines()
 f.close()
 
-new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
 position = 5
-contents.insert(position, f'{new_line}\n')
-
+for (n, path), link in paper_name_link.items():
+	new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
+	contents.insert(position, f'{new_line}\n')
+	position += 1
+	
 f = open("README.md", "w")
 contents = "".join(contents)
 f.write(contents)
