@@ -14,7 +14,7 @@ DOCUMENTS_PATH = "/home/yassine/Documents/papers_notes/"
 r_match = r'\\title{ \\LARGE \\textbf{(.*?)}'
 match_year = r'} \\\\ (.*?)}'
 
-# Get the commited papers to avoid duplication
+# Get the committed papers to avoid duplication
 try:
 	commited_papers = pickle.load(open("commited_papers.pkl", "rb"))
 except:
@@ -47,19 +47,29 @@ while not search_success:
 paper_name_link = {n:s.link for s, n in zip(search_results, new_papers)}
 
 # Append the new papers to the markdown file
-with open('README.md', 'a') as f:
-	for (n, path), link in paper_name_link.items():
-		new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
-		f.write(f'{new_line}\n')
+# with open('README.md', 'a') as f:
+# 	for (n, path), link in paper_name_link.items():
+# 		new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
+# 		f.write(f'{new_line}\n')
+
+f = open("README.md", "r")
+contents = f.readlines()
+f.close()
+
+new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
+position = 5
+contents.insert(position, f'{new_line}\n')
+
+f = open("README.md", "w")
+contents = "".join(contents)
+f.write(contents)
+f.close()
 
 # Git add and commit
-os.system("git pull")
 os.system("git add .")
 os.system(f"git commit -m 'New commit, added {len(new_papers)} papers'")
 os.system("git push")
 
-# Saving a new list of the commited papers
+# Saving a new list of the committed papers
 commited_papers += [p for p, _ in new_papers]
 pickle.dump(commited_papers, open('commited_papers.pkl', 'wb'))
-
-

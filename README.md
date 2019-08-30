@@ -3,6 +3,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised Learning
 
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (2017): [[Paper]](https://arxiv.org/abs/1603.09246) [[Notes]](notes/63_solving_jigsaw_puzzles.pdf)
 - Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
 - Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
 - Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
@@ -91,4 +92,3 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 
 
-- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (2017): [[Paper]](https://arxiv.org/abs/1603.09246) [[Notes]](notes/63_solving_jigsaw_puzzles.pdf)
