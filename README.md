@@ -4,8 +4,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Self-Supervised Learning
 
 - Multi-task Self-Supervised Visual Learning (2017): [[Paper]](https://arxiv.org/abs/1708.07860) [[Notes]](notes/64_multi_task_self_supervised.pdf)
+- Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (2017): [[Paper]](https://arxiv.org/abs/1611.09842) [[Notes]](notes/65_split_brain_autoencoders.pdf)
+- Colorization as a Proxy Task for Visual Understanding (2017): [[Paper]](https://arxiv.org/abs/1703.04044) [[Notes]](notes/66_colorization_as_a_proxy_for_viz_under.pdf)
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (2017): [[Paper]](https://arxiv.org/abs/1603.09246) [[Notes]](notes/63_solving_jigsaw_puzzles.pdf)
+- Unsupervised Representation Learning by Predicting Image Rotations (2018): [[Paper]](https://arxiv.org/abs/1803.07728) [[Notes]](notes/68_unsup_img_rep_learn_by_rot_predic.pdf)
 - Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
 - Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
 - Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
