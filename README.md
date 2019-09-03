@@ -4,13 +4,21 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Self-Supervised Learning
 
 - Multi-task Self-Supervised Visual Learning (2017): [[Paper]](https://arxiv.org/abs/1708.07860) [[Notes]](notes/64_multi_task_self_supervised.pdf)
+- Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
+- AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (2017): [[Paper]](https://arxiv.org/abs/1611.09842) [[Notes]](notes/65_split_brain_autoencoders.pdf)
+- Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Colorization as a Proxy Task for Visual Understanding (2017): [[Paper]](https://arxiv.org/abs/1703.04044) [[Notes]](notes/66_colorization_as_a_proxy_for_viz_under.pdf)
+- Self-Supervised Feature Learning by Learning to Spot Artifacts (2018): [[Paper]](https://arxiv.org/abs/1806.05024) [[Notes]](notes/69_SSL_by_learn_to_spot_artifacts.pdf)
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (2017): [[Paper]](https://arxiv.org/abs/1603.09246) [[Notes]](notes/63_solving_jigsaw_puzzles.pdf)
+- Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
 - Unsupervised Representation Learning by Predicting Image Rotations (2018): [[Paper]](https://arxiv.org/abs/1803.07728) [[Notes]](notes/68_unsup_img_rep_learn_by_rot_predic.pdf)
+- Deep Clustering for Unsupervised Learning of Visual Feature (2018): [[Paper]](https://arxiv.org/abs/1807.05520) [[Notes]](notes/70_deep_clustering_for_un_visual_features.pdf)
 - Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
+- Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer (2016): [[Paper]](https://arxiv.org/abs/1612.03928) [[Notes]](notes/71_attention_transfer.pdf)
 - Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
+- Cross Pixel Optical-Flow Similarity for Self-Supervised Learning (2018): [[Paper]](https://arxiv.org/abs/1807.05636) [[Notes]](notes/75_cross_pixel_optical_flow.pdf)
 - Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
 - Unsupervised Visual Representation Learning by Context Prediction (2016): [[Paper]](https://arxiv.org/abs/1505.05192) [[Notes]](notes/62_unsupervised_learning_with_context_prediction.pdf)
 
