@@ -56,11 +56,10 @@ f = open("README.md", "r")
 contents = f.readlines()
 f.close()
 
-position = 5 + len(list(paper_name_link.keys()))
+position = 5
 for (n, path), link in paper_name_link.items():
 	new_line = f'- {n.rstrip()}: [[Paper]]({link}) [[Notes]]({path})'
 	contents.insert(position, f'{new_line}\n')
-	position -= 1
 
 f = open("README.md", "w")
 contents = "".join(contents)
