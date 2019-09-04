@@ -4,14 +4,13 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Self-Supervised Learning
 
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
-- Invariant Information Clustering for Unsupervised Image Classification and Segmentation (2019): [[Paper]](https://arxiv.org/abs/1807.06653) [[Notes]](notes/78_IIC.pdf)
+
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
 - Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
 - Self-Supervised Feature Learning by Learning to Spot Artifacts (2018): [[Paper]](https://arxiv.org/abs/1806.05024) [[Notes]](notes/69_SSL_by_learn_to_spot_artifacts.pdf)
 - Unsupervised Representation Learning by Predicting Image Rotations (2018): [[Paper]](https://arxiv.org/abs/1803.07728) [[Notes]](notes/68_unsup_img_rep_learn_by_rot_predic.pdf)
-- Deep Clustering for Unsupervised Learning of Visual Feature (2018): [[Paper]](https://arxiv.org/abs/1807.05520) [[Notes]](notes/70_deep_clustering_for_un_visual_features.pdf)
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning (2018): [[Paper]](https://arxiv.org/abs/1807.05636) [[Notes]](notes/75_cross_pixel_optical_flow.pdf)
 - Multi-task Self-Supervised Visual Learning (2017): [[Paper]](https://arxiv.org/abs/1708.07860) [[Notes]](notes/64_multi_task_self_supervised.pdf)
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (2017): [[Paper]](https://arxiv.org/abs/1611.09842) [[Notes]](notes/65_split_brain_autoencoders.pdf)
@@ -37,6 +36,9 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Temporal Ensembling for Semi-Supervised Learning (2017): [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
 - Semi-Supervised Learning with Ladder Networks (2015): [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
 
+## Unsupervised Learning
+- Invariant Information Clustering for Unsupervised Image Classification and Segmentation (2019): [[Paper]](https://arxiv.org/abs/1807.06653) [[Notes]](notes/78_IIC.pdf)
+- Deep Clustering for Unsupervised Learning of Visual Feature (2018): [[Paper]](https://arxiv.org/abs/1807.05520) [[Notes]](notes/70_deep_clustering_for_un_visual_features.pdf)
 
 ## Semantic Segmentation
 - DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution (2018): [[Paper]](https://arxiv.org/abs/1802.02611) [[Notes]](notes/26_deeplabv3+.pdf)
