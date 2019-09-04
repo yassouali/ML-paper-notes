@@ -66,11 +66,11 @@ contents = "".join(contents)
 f.write(contents)
 f.close()
 
+# Saving a new list of the committed papers
+commited_papers += [p for p, _ in new_papers]
+pickle.dump(commited_papers, open('commited_papers.pkl', 'wb'))
+
 # Git add and commit
 os.system("git add .")
 os.system(f"git commit -m 'New commit, added {len(new_papers)} papers'")
 os.system("git push")
-
-# Saving a new list of the committed papers
-commited_papers += [p for p, _ in new_papers]
-pickle.dump(commited_papers, open('commited_papers.pkl', 'wb'))

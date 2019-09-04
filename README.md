@@ -3,6 +3,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised Learning
 
+- Invariant Information Clustering for Unsupervised Image Classification and Segmentation (2019): [[Paper]](https://arxiv.org/abs/1807.06653) [[Notes]](notes/78_IIC.pdf)
+- VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018): [[Paper]](https://arxiv.org/abs/1707.05612) [[Notes]](notes/77_vse++.pdf)
 - Multi-task Self-Supervised Visual Learning (2017): [[Paper]](https://arxiv.org/abs/1708.07860) [[Notes]](notes/64_multi_task_self_supervised.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
