@@ -4,7 +4,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Self-Supervised Learning
 
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
-
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
@@ -20,7 +19,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
 - Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
 - Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
-
 
 ## Semi-Supervised Learning
 
@@ -105,9 +103,3 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Convolutional Neural Networks for Page Segmentation of Historical Document Images (2017): [[Paper]](https://arxiv.org/abs/1704.01474) [[Notes]](notes/CNNs_chen.pdf)
 - ICDAR2009 Page Segmentation Competition (2009): [[Paper]](https://ieeexplore.ieee.org/document/5277763) [[Notes]](notes/ICDAR2009.pdf)
 - Amethod for combining complementary techniques for document image segmentation (2009): [[Paper]](https://www.researchgate.net/publication/220600948_A_method_for_combining_complementary_techniques_for_document_image_segmentation) [[Notes]](notes/a_method_for_combining_complementary_techniques.pdf)
-
-
-
-
-
-
