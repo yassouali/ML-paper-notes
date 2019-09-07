@@ -40,8 +40,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Semantic Segmentation
 - DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution (2018): [[Paper]](https://arxiv.org/abs/1802.02611) [[Notes]](notes/26_deeplabv3+.pdf)
-- (GCN) Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network (2017): [[Paper]](https://arxiv.org/abs/1703.02719) [[Notes]](notes/28_large_kernel_maters.pdf)
-- (DUC, HDC) Understanding Convolution for Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1702.08502) [[Notes]](notes/29_understanding_conv_for_sem_seg.pdf)
+- Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network (2017): [[Paper]](https://arxiv.org/abs/1703.02719) [[Notes]](notes/28_large_kernel_maters.pdf)
+- Understanding Convolution for Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1702.08502) [[Notes]](notes/29_understanding_conv_for_sem_seg.pdf)
 - Rethinking Atrous Convolution for Semantic Image Segmentation (2017): [[Paper]](https://arxiv.org/abs/1706.05587) [[Notes]](notes/25_deeplab_v3.pdf)
 - RefineNet: Multi-path refinement networks for high-resolution semantic segmentation (2017): [[Paper]](https://arxiv.org/abs/1611.06612) [[Notes]](notes/31_refinenet.pdf)
 - Pyramid Scene Parsing Network (2017): [[Paper]](http://jiaya.me/papers/PSPNet_cvpr17.pdf) [[Notes]](notes/22_pspnet.pdf)
