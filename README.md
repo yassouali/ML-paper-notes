@@ -80,10 +80,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - DeepWalk: Online Learning of Social Representation (2014): [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Notes]](notes/deep_walk.pdf)
 - The graph neural network model (2009): [[Paper]](https://persagen.com/files/misc/scarselli2009graph.pdf) [[Notes]](notes/graph_neural_nets.pdf)
 
+## Regularization
+- Manifold Mixup: Better Representations by Interpolating Hidden States (2018): [[Paper]](https://arxiv.org/abs/1806.05236) [[Notes]](notes/43_manifold_mixup.pdf)
 
 ## Deep learning Methods & Models
 - AutoAugment (2018): [[Paper]](https://arxiv.org/abs/1805.09501) [[Notes]](notes/41_autoaugment.pdf)
-- Manifold Mixup: Better Representations by Interpolating Hidden States (2018): [[Paper]](https://arxiv.org/abs/1806.05236) [[Notes]](notes/43_manifold_mixup.pdf)
 - Stacked Hourgloass (2017): [[Paper]](http://ismir2018.ircam.fr/doc/pdfs/138_Paper.pdf) [[Notes]](notes/34_stacked_hourglass.pdf)
 
 
