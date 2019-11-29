@@ -3,11 +3,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised Learning
 
-- Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1909.01804) [[Notes]](notes/79_dual_student.pdf)
-- S4L: Self-Supervised Semi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.03670) [[Notes]](notes/83_S4L.pdf)
-- Semi-Supervised Learning by Augmented Distribution Alignment (2019): [[Paper]](https://arxiv.org/abs/1905.08171) [[Notes]](notes/80_SSL_aug_dist_align.pdf)
-- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
-- Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
@@ -27,6 +22,9 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Semi-Supervised Learning
 
+- Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1909.01804) [[Notes]](notes/79_dual_student.pdf)
+- S4L: Self-Supervised Semi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.03670) [[Notes]](notes/83_S4L.pdf)
+- Semi-Supervised Learning by Augmented Distribution Alignment (2019): [[Paper]](https://arxiv.org/abs/1905.08171) [[Notes]](notes/80_SSL_aug_dist_align.pdf)
 - MixMatch: A Holistic Approach toSemi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.02249) [[Notes]](notes/45_mixmatch.pdf)
 - Unsupervised Data Augmentation (2019): [[Paper]](https://arxiv.org/abs/1904.12848) [[Notes]](notes/39_unsupervised_data_aug.pdf)
 - Interpolation Consistency Training forSemi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1903.03825) [[Notes]](notes/44_interpolation_consistency_tranining.pdf)
@@ -63,9 +61,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation (2019): [[Paper]](http://arxiv.org/abs/1904.11693) [[Notes]](notes/54_boxe_driven_weakly_segmentation.pdf)
 - FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference (2019): [[Paper]](https://arxiv.org/abs/1902.10421) [[Notes]](notes/49_ficklenet.pdf)
 - Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing (2018): [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [[Notes]](notes/53_deep_seeded_region_growing.pdf)
+- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
 - Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach (2018): [[Paper]](https://arxiv.org/abs/1703.08448) [[Notes]](notes/51_object_region_manning_for_sem_seg.pdf)
 - Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1805.04574) [[Notes]](notes/52_dilates_convolution_semi_super_segmentation.pdf)
 - Tell Me Where to Look: Guided Attention Inference Network (2018): [[Paper]](https://arxiv.org/abs/1802.10171) [[Notes]](notes/50_tell_me_where_to_look.pdf)
+- Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation (2015): [[Paper]](https://arxiv.org/abs/1506.04924) [[Notes]](notes/47_decoupled_nn_for_segmentation.pdf)
 - Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation (2015): [[Paper]](https://arxiv.org/abs/1502.02734) [[Notes]](notes/48_weakly_and_ss_for_segmentation.pdf)
 
