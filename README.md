@@ -9,7 +9,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
 - Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
-
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
@@ -25,7 +24,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Colorful image colorization (2016): [[Paper]](https://richzhang.github.io/colorization/) [[Notes]](notes/59_colorful_colorization.pdf)
 - Learning visual groups from co-occurrences in space and time (2015): [[Paper]](https://arxiv.org/abs/1511.06811) [[Notes]](notes/61_visual_groups_from_co_occurrences.pdf)
 - Discriminative unsupervised feature learning with exemplar convolutional neural networks (2015): [[Paper]](https://arxiv.org/abs/1406.6909) [[Notes]](notes/60_exemplar_CNNs.pdf)
-
 
 ## Semi-Supervised Learning
 
@@ -47,8 +45,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Semantic Segmentation
 - DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution (2018): [[Paper]](https://arxiv.org/abs/1802.02611) [[Notes]](notes/26_deeplabv3+.pdf)
-- (GCN) Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network (2017): [[Paper]](https://arxiv.org/abs/1703.02719) [[Notes]](notes/28_large_kernel_maters.pdf)
-- (DUC, HDC) Understanding Convolution for Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1702.08502) [[Notes]](notes/29_understanding_conv_for_sem_seg.pdf)
+- Large Kernel Matter, Improve Semantic Segmentation by Global Convolutional Network (2017): [[Paper]](https://arxiv.org/abs/1703.02719) [[Notes]](notes/28_large_kernel_maters.pdf)
+- Understanding Convolution for Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1702.08502) [[Notes]](notes/29_understanding_conv_for_sem_seg.pdf)
 - Rethinking Atrous Convolution for Semantic Image Segmentation (2017): [[Paper]](https://arxiv.org/abs/1706.05587) [[Notes]](notes/25_deeplab_v3.pdf)
 - RefineNet: Multi-path refinement networks for high-resolution semantic segmentation (2017): [[Paper]](https://arxiv.org/abs/1611.06612) [[Notes]](notes/31_refinenet.pdf)
 - Pyramid Scene Parsing Network (2017): [[Paper]](http://jiaya.me/papers/PSPNet_cvpr17.pdf) [[Notes]](notes/22_pspnet.pdf)
@@ -87,10 +85,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - DeepWalk: Online Learning of Social Representation (2014): [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Notes]](notes/deep_walk.pdf)
 - The graph neural network model (2009): [[Paper]](https://persagen.com/files/misc/scarselli2009graph.pdf) [[Notes]](notes/graph_neural_nets.pdf)
 
+## Regularization
+- Manifold Mixup: Better Representations by Interpolating Hidden States (2018): [[Paper]](https://arxiv.org/abs/1806.05236) [[Notes]](notes/43_manifold_mixup.pdf)
 
 ## Deep learning Methods & Models
 - AutoAugment (2018): [[Paper]](https://arxiv.org/abs/1805.09501) [[Notes]](notes/41_autoaugment.pdf)
-- Manifold Mixup: Better Representations by Interpolating Hidden States (2018): [[Paper]](https://arxiv.org/abs/1806.05236) [[Notes]](notes/43_manifold_mixup.pdf)
 - Stacked Hourgloass (2017): [[Paper]](http://ismir2018.ircam.fr/doc/pdfs/138_Paper.pdf) [[Notes]](notes/34_stacked_hourglass.pdf)
 
 
@@ -110,9 +109,3 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Convolutional Neural Networks for Page Segmentation of Historical Document Images (2017): [[Paper]](https://arxiv.org/abs/1704.01474) [[Notes]](notes/CNNs_chen.pdf)
 - ICDAR2009 Page Segmentation Competition (2009): [[Paper]](https://ieeexplore.ieee.org/document/5277763) [[Notes]](notes/ICDAR2009.pdf)
 - Amethod for combining complementary techniques for document image segmentation (2009): [[Paper]](https://www.researchgate.net/publication/220600948_A_method_for_combining_complementary_techniques_for_document_image_segmentation) [[Notes]](notes/a_method_for_combining_complementary_techniques.pdf)
-
-
-
-
-
-
