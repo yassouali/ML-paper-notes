@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 
-import os
+import os, sys
 import argparse
 import re
-from google import google
+from googlesearch import search
 from shutil import copytree, copy
 from subprocess import call
 from pathlib import Path
 import pickle
 from tqdm import tqdm
 
-DOCUMENTS_PATH = "/home/yassine/Documents/papers_notes/"
+DOCUMENTS_PATH = "/home/yassine/Writing/papers_notes"
 r_match = r'\\title{ \\LARGE \\textbf{(.*?)}'
 match_year = r'} \\\\ (.*?)}'
 
@@ -40,11 +40,17 @@ for i, (n, path) in enumerate(new_papers):
 search_success = False
 while not search_success:
 	try:
-		search_results = [google.search(p, 1)[0] for p, _ in tqdm(new_papers)]
+		search_results = []
+		for p, _ in tqdm(new_papers):
+			res = search(p, tld="co.in", num=10, stop=5, pause=2)
+			for link in res:
+				if "arxiv" in link:
+					search_results.append(link)
+					break
 		search_success = True
 	except:
 		pass
-paper_name_link = {n:s.link for s, n in zip(search_results, new_papers)}
+paper_name_link = {n:link for link, n in zip(search_results, new_papers)}
 
 # Append the new papers to the markdown file
 # with open('README.md', 'a') as f:

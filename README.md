@@ -3,6 +3,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised Learning
 
+- Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1909.01804) [[Notes]](notes/79_dual_student.pdf)
+- S4L: Self-Supervised Semi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.03670) [[Notes]](notes/83_S4L.pdf)
+- Semi-Supervised Learning by Augmented Distribution Alignment (2019): [[Paper]](https://arxiv.org/abs/1905.08171) [[Notes]](notes/80_SSL_aug_dist_align.pdf)
+- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
+- Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
