@@ -4,7 +4,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Self-Supervised Learning
 
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
-- Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](https://github.com/philiptheother/FeatureDecoupling) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
+- Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
 - Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
