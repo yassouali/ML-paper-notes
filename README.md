@@ -7,7 +7,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
-- AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
+- AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations (2019): [[Paper]](https://arxiv.org/abs/1901.04596) [[Notes]](notes/74_AFT_vs_AED.pdf)
 - Boosting Self-Supervised Learning via Knowledge Transfer (2018): [[Paper]](https://arxiv.org/abs/1805.00385) [[Notes]](notes/67_boosting_self_super_via_trsf_learning.pdf)
 - Self-Supervised Feature Learning by Learning to Spot Artifacts (2018): [[Paper]](https://arxiv.org/abs/1806.05024) [[Notes]](notes/69_SSL_by_learn_to_spot_artifacts.pdf)
 - Unsupervised Representation Learning by Predicting Image Rotations (2018): [[Paper]](https://arxiv.org/abs/1803.07728) [[Notes]](notes/68_unsup_img_rep_learn_by_rot_predic.pdf)
@@ -69,11 +69,11 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 
 ## Weakly- and Semi-supervised Semantic segmentation
-- Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation (2019): [[Paper]](http://arxiv.org/abs/1904.11693) [[Notes]](notes/54_boxe_driven_weakly_segmentation.pdf)
-- FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference (2019): [[Paper]](https://arxiv.org/abs/1902.10421) [[Notes]](notes/49_ficklenet.pdf)
+- Box-driven Class-wise Region Masking and Filling Rate Guided Loss (2019): [[Paper]](http://arxiv.org/abs/1904.11693) [[Notes]](notes/54_boxe_driven_weakly_segmentation.pdf)
+- FickleNet: Weakly and Semi-supervised Semantic Segmentation using Stochastic Inference (2019): [[Paper]](https://arxiv.org/abs/1902.10421) [[Notes]](notes/49_ficklenet.pdf)
 - Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing (2018): [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [[Notes]](notes/53_deep_seeded_region_growing.pdf)
-- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
-- Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach (2018): [[Paper]](https://arxiv.org/abs/1703.08448) [[Notes]](notes/51_object_region_manning_for_sem_seg.pdf)
+- Learning Pixel-level Semantic Affinity with Image-level Supervision (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
+- Object Region Mining with Adversarial Erasing (2018): [[Paper]](https://arxiv.org/abs/1703.08448) [[Notes]](notes/51_object_region_manning_for_sem_seg.pdf)
 - Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1805.04574) [[Notes]](notes/52_dilates_convolution_semi_super_segmentation.pdf)
 - Tell Me Where to Look: Guided Attention Inference Network (2018): [[Paper]](https://arxiv.org/abs/1802.10171) [[Notes]](notes/50_tell_me_where_to_look.pdf)
 - Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
