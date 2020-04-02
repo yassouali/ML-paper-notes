@@ -74,7 +74,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing (2018): [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [[Notes]](notes/53_deep_seeded_region_growing.pdf)
 - Learning Pixel-level Semantic Affinity with Image-level Supervision (2018): [[Paper]](https://arxiv.org/abs/1803.10464) [[Notes]](notes/81_affinity_for_ws_segmentation.pdf)
 - Object Region Mining with Adversarial Erasing (2018): [[Paper]](https://arxiv.org/abs/1703.08448) [[Notes]](notes/51_object_region_manning_for_sem_seg.pdf)
-- Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation (2018): [[Paper]](https://arxiv.org/abs/1805.04574) [[Notes]](notes/52_dilates_convolution_semi_super_segmentation.pdf)
+- Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Segmentation (2018): [[Paper]](https://arxiv.org/abs/1805.04574) [[Notes]](notes/52_dilates_convolution_semi_super_segmentation.pdf)
 - Tell Me Where to Look: Guided Attention Inference Network (2018): [[Paper]](https://arxiv.org/abs/1802.10171) [[Notes]](notes/50_tell_me_where_to_look.pdf)
 - Semi Supervised Semantic Segmentation Using Generative Adversarial Network (2017): [[Paper]](https://arxiv.org/abs/1703.09695) [[Notes]](notes/82_ss_segmentation_gans.pdf)
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation (2015): [[Paper]](https://arxiv.org/abs/1506.04924) [[Notes]](notes/47_decoupled_nn_for_segmentation.pdf)
