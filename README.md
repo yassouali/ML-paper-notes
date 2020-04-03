@@ -3,6 +3,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised Learning
 
+- Multi-Adversarial Domain Adaptation (2018): [[Paper]](https://arxiv.org/abs/1809.02176) [[Notes]](notes/92_multi_adversarial_domain_adaptation.pdf)
+- On Learning Invariant Representations for Domain Adaptation (2019): [[Paper]](https://arxiv.org/abs/1901.09453) [[Notes]](notes/90_on_learning_invariant_repr.pdf)
 
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
