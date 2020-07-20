@@ -1,7 +1,7 @@
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
-## Self-Supervised Learning
+## Self-Supervised & Contrastive Learning
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
