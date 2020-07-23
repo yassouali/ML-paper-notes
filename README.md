@@ -36,7 +36,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Temporal Ensembling for Semi-Supervised Learning (2017): [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
 - Semi-Supervised Learning with Ladder Networks (2015): [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
 
-## Domain Adaptation, Domain Generalization & Out-of-Distribution Generalization
+## Domain Adaptation, Domain & Out-of-Distribution Generalization
 - Transferability vs. Discriminability: Batch Spectral Penalization for ADA (2019): [[Paper]](http://proceedings.mlr.press/v97/chen19i.html) [[Notes]](notes/91_batch_spectral_normalization.pdf)
 - On Learning Invariant Representations for Domain Adaptation (2019): [[Paper]](https://arxiv.org/abs/1901.09453) [[Notes]](notes/90_on_learning_invariant_repr.pdf)
 - Universal Domain Adaptation (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) [[Notes]](notes/87_Universal_DA.pdf)
@@ -90,7 +90,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Attention-based Dropout Layer for Weakly Supervised Object Localization (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) [[Notes]](notes/58_attention_based_dropout.pdf)
 - Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer (2016): [[Paper]](https://arxiv.org/abs/1612.03928) [[Notes]](notes/71_attention_transfer.pdf)
 
-## Graph neural network & Graph embeddings
+## Graph Neural Network
 - Pixels to Graphs by Associative Embedding (2017): [[Paper]](https://arxiv.org/abs/1706.07365) [[Notes]](notes/36_pixels_to_graphs.pdf)
 - Associative Embedding: End-to-End Learning forJoint Detection and Grouping (2017): [[Paper]](https://arxiv.org/abs/1611.05424) [[Notes]](notes/35_associative_emb.pdf)
 - Interaction Networks for Learning about Objects , Relations and Physics (2016): [[Paper]](https://arxiv.org/abs/1612.00222) [[Notes]](notes/18_interaction_nets.pdf)
