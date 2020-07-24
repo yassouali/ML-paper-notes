@@ -3,8 +3,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Self-Supervised & Contrastive Learning
 
-- Big Self-Supervised Models are Strong Semi-Supervised Learners [[Paper]](https://arxiv.org/abs/2006.10029) [[Notes]](notes/95_big_self-supervised_models.pdf)
-- Debiased Contrastive Learning [[Paper]](https://arxiv.org/abs/2007.00224) [[Notes]](notes/97_debiased_contrastive_learning.pdf)
+- Big Self-Supervised Models are Strong Semi-Supervised Learners (2020) [[Paper]](https://arxiv.org/abs/2006.10029) [[Notes]](notes/95_big_self-supervised_models.pdf)
+- Debiased Contrastive Learning (2020) [[Paper]](https://arxiv.org/abs/2007.00224) [[Notes]](notes/97_debiased_contrastive_learning.pdf)
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
 - Self-Supervised Representation Learning by Rotation Feature Decoupling (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[Notes]](notes/73_SSL_by_rotation_decoupling.pdf)
 - Revisiting Self-Supervised Visual Representation Learning (2019): [[Paper]](https://arxiv.org/abs/1901.09005) [[Notes]](notes/72_revisiting_SSL.pdf)
@@ -24,8 +24,8 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Semi-Supervised Learning
 
-- Negative sampling in semi-supervised learning [[Paper]](https://arxiv.org/abs/1911.05166) [[Notes]](notes/94_nagative_sampling_SSL.pdf)
-- Time-Consistent Self-Supervision for Semi-Supervised Learning [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/5578-Paper.pdf) [[Notes]](notes/93_time_consistent_SSL.pdf)
+- Negative sampling in semi-supervised learning (2020) [[Paper]](https://arxiv.org/abs/1911.05166) [[Notes]](notes/94_nagative_sampling_SSL.pdf)
+- Time-Consistent Self-Supervision for Semi-Supervised Learning (2020) [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/5578-Paper.pdf) [[Notes]](notes/93_time_consistent_SSL.pdf)
 - Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1909.01804) [[Notes]](notes/79_dual_student.pdf)
 - S4L: Self-Supervised Semi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.03670) [[Notes]](notes/83_S4L.pdf)
 - Semi-Supervised Learning by Augmented Distribution Alignment (2019): [[Paper]](https://arxiv.org/abs/1905.08171) [[Notes]](notes/80_SSL_aug_dist_align.pdf)
@@ -43,7 +43,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Domain Adaptation, Domain & Out-of-Distribution Generalization
 
-- Rethinking Distributional Matching Based Domain Adaptation [[Paper]](https://arxiv.org/abs/2006.13352) [[Notes]](notes/98_rethinking_distributional_matching.pdf)
+- Rethinking Distributional Matching Based Domain Adaptation (2020) [[Paper]](https://arxiv.org/abs/2006.13352) [[Notes]](notes/98_rethinking_distributional_matching.pdf)
 - Transferability vs. Discriminability: Batch Spectral Penalization for ADA (2019): [[Paper]](http://proceedings.mlr.press/v97/chen19i.html) [[Notes]](notes/91_batch_spectral_normalization.pdf)
 - On Learning Invariant Representations for Domain Adaptation (2019): [[Paper]](https://arxiv.org/abs/1901.09453) [[Notes]](notes/90_on_learning_invariant_repr.pdf)
 - Universal Domain Adaptation (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) [[Notes]](notes/87_Universal_DA.pdf)
@@ -55,7 +55,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Generative Modeling
 
-- Generative Pretraining from Pixels [[Paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[Notes]](notes/96_generative_pretraining_from_pixels.pdf)
+- Generative Pretraining from Pixels (2020) [[Paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[Notes]](notes/96_generative_pretraining_from_pixels.pdf)
 - Consistency Regularization for Generative Adversarial Networks (2020): [[Paper]](https://arxiv.org/abs/1910.12027) [[Notes]](notes/84_CR_GANs.pdf)
 
 ## Unsupervised Learning
