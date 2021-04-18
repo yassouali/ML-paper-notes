@@ -1,8 +1,10 @@
+
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
 ## Self-Supervised & Contrastive Learning
 
+- Self-Supervised Relational Reasoning for Representation Learning (2020): [[Paper]](https://arxiv.org/abs/2006.05849) [[Notes]](notes/103_SSL_relation_reasoning.pdf)
 - Big Self-Supervised Models are Strong Semi-Supervised Learners (2020) [[Paper]](https://arxiv.org/abs/2006.10029) [[Notes]](notes/95_big_self-supervised_models.pdf)
 - Debiased Contrastive Learning (2020) [[Paper]](https://arxiv.org/abs/2007.00224) [[Notes]](notes/97_debiased_contrastive_learning.pdf)
 - Selfie: Self-supervised Pretraining for Image Embedding (2019): [[Paper]](https://arxiv.org/abs/1906.02940) [[Notes]](notes/76_selfie_pretraining_for_img_embeddings.pdf)
@@ -52,6 +54,14 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Conditional Adversarial Domain Adaptation (2018): [[Paper]](https://arxiv.org/abs/1705.10667) [[Notes]](notes/85_CDAN.pdf)
 - Learning Adversarially Fair and Transferable Representations (2018): [[Paper]](https://arxiv.org/abs/1802.06309) [[Notes]](notes/88_learning_adv_fair_and_tsf_repres.pdf)
 - What is the Effect of Importance Weighting in Deep Learning? (2018): [[Paper]](https://arxiv.org/abs/1812.03372) [[Notes]](notes/89_effect_of_importance_weighting.pdf)
+
+## Natural Language Processing (NLP)
+
+- Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data (2020): [[Paper]](https://arxiv.org/abs/2010.11966) [[Notes]](notes/102_uda_with_naive_aug.pdf)
+- Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning (2021): [[Paper]](https://arxiv.org/abs/2011.01403) [[Notes]](notes/104_supervised_const_for_fine_tuning.pdf)
+- BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning (2020): [[Paper]](https://arxiv.org/abs/1902.02671) [[Notes]](notes/99_bert_and_pals.pdf)
+- FreeLB: Enhanced Adversarial Training for Natural Language Understanding (2020): [[Paper]](https://arxiv.org/abs/1909.11764) [[Notes]](notes/101_freeLB.pdf)
+- MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification (2020): [[Paper]](https://arxiv.org/abs/2004.12239) [[Notes]](notes/100_mixtext.pdf)
 
 ## Generative Modeling
 
