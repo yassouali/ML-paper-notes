@@ -1,4 +1,5 @@
 
+
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
@@ -54,6 +55,14 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Conditional Adversarial Domain Adaptation (2018): [[Paper]](https://arxiv.org/abs/1705.10667) [[Notes]](notes/85_CDAN.pdf)
 - Learning Adversarially Fair and Transferable Representations (2018): [[Paper]](https://arxiv.org/abs/1802.06309) [[Notes]](notes/88_learning_adv_fair_and_tsf_repres.pdf)
 - What is the Effect of Importance Weighting in Deep Learning? (2018): [[Paper]](https://arxiv.org/abs/1812.03372) [[Notes]](notes/89_effect_of_importance_weighting.pdf)
+
+## Explainability
+- What shapes feature representations Exploring datasets architectures and training (2020): [[Paper]](https://arxiv.org/abs/2006.12433) [[Notes]](notes/What_shapes_feature_representations_Exploring_datasets_architectures_and_training.pdf)
+- Transformer Interpretability Beyond Attention Visualization (2020): [[Paper]](https://arxiv.org/abs/2012.09838) [[Notes]](notes/Transformer_Interpretability_Beyond_Attention_Visualization.pdf)
+- Attention is not Explanation (2019): [[Paper]](https://arxiv.org/abs/1902.10186) [[Notes]](notes/Attention_is_not_Explanation.pdf)
+- Towards Interpreting and Mitigating Shortcut Learning Behavior of NLU Models (2021): [[Paper]](https://arxiv.org/abs/2103.06922) [[Notes]](notes/Towards_Interpreting_and_Mitigating_Shortcut_Learning_Behavior_of_NLU_Models.pdf)
+- SmoothGrad removing noise by adding noise (2017): [[Paper]](https://arxiv.org/abs/1706.03825) [[Notes]](notes/SmoothGrad_removing_noise_by_adding_noise.pdf)
+- Axiomatic Attribution for Deep Networks (2017): [[Paper]](https://arxiv.org/abs/1703.01365) [[Notes]](notes/Axiomatic_Attribution_for_Deep_Networks.pdf)
 
 ## Natural Language Processing (NLP)
 
