@@ -67,7 +67,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Axiomatic Attribution for Deep Networks (2017): [[Paper]](https://arxiv.org/abs/1703.01365) [[Notes]](notes/Axiomatic_Attribution_for_Deep_Networks.pdf)
 - Attention Branch Network: Learning of Attention Mechanism for Visual Explanation (2019): [[Paper]](https://arxiv.org/abs/1812.10025) [[Notes]](notes/57_attention_branch_netwrok.pdf)
 - Paying More Attention to Attention: Improving the Performance of CNNs via Attention Transfer (2016): [[Paper]](https://arxiv.org/abs/1612.03928) [[Notes]](notes/71_attention_transfer.pdf)
-- 
+
 ## Natural Language Processing (NLP)
 
 - Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data (2020): [[Paper]](https://arxiv.org/abs/2010.11966) [[Notes]](notes/102_uda_with_naive_aug.pdf)
