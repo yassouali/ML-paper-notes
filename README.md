@@ -1,5 +1,4 @@
 
-
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
@@ -43,6 +42,36 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Mean teachers are better role models (2017): [[Paper]](https://arxiv.org/abs/1703.01780) [[Notes]](notes/56_mean_teachers.pdf)
 - Temporal Ensembling for Semi-Supervised Learning (2017): [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
 - Semi-Supervised Learning with Ladder Networks (2015): [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
+
+## Video Understanding
+
+
+
+- Multiscale Vision Transformers (2021): [[Paper]](https://arxiv.org/abs/2104.11227) [[Notes]](notes/Multiscale_Vision_Transformers.pdf)
+- ViViT A Video Vision Transformer (2021): [[Paper]](https://arxiv.org/abs/2103.15691) [[Notes]](notes/ViViT_A_Video_Vision_Transformer.pdf)
+- Space-time Mixing Attention for Video Transformer (2021): [[Paper]](https://arxiv.org/abs/2106.05968) [[Notes]](notes/Space-time_Mixing_Attention_for_Video_Transformer.pdf)
+- Is Space-Time Attention All You Need for Video Understanding (2021): [[Paper]](https://arxiv.org/abs/2102.05095) [[Notes]](notes/Is_Space-Time_Attention_All_You_Need_for_Video_Understanding.pdf)
+- An Image is Worth 16x16 Words What is a Video Worth (2021): [[Paper]](https://arxiv.org/abs/2103.13915) [[Notes]](notes/An_Image_is_Worth_16x16_Words_What_is_a_Video_Worth.pdf)
+- Temporal Query Networks for Fine-grained Video Understanding (2021): [[Paper]](https://arxiv.org/abs/2104.09496) [[Notes]](notes/Temporal_Query_Networks_for_Fine-grained_Video_Understanding.pdf)
+- X3D Expanding Architectures for Efficient Video Recognition (2020): [[Paper]](https://arxiv.org/abs/2004.04730) [[Notes]](notes/X3D_Expanding_Architectures_for_Efficient_Video_Recognition.pdf)
+- Temporal Pyramid Network for Action Recognition (2020): [[Paper]](https://arxiv.org/abs/2004.03548) [[Notes]](notes/Temporal_Pyramid_Network_for_Action_Recognition.pdf)
+- STM SpatioTemporal and Motion Encoding for Action Recognition (2019): [[Paper]](https://arxiv.org/abs/1908.02486) [[Notes]](notes/STM_SpatioTemporal_and_Motion_Encoding_for_Action_Recognition.pdf)
+- Video Classification with Channel-Separated Convolutional Networks (2019): [[Paper]](https://arxiv.org/abs/1904.02811) [[Notes]](notes/Video_Classification_with_Channel-Separated_Convolutional_Networks.pdf)
+- Video Modeling with Correlation Networks (2019): [[Paper]](https://arxiv.org/abs/1906.03349) [[Notes]](notes/Video_Modeling_with_Correlation_Networks.pdf)
+- Videos as Space-Time Region Graphs (2018): [[Paper]](https://arxiv.org/abs/1806.01810) [[Notes]](notes/Videos_as_Space-Time_Region_Graphs.pdf)
+- SlowFast Networks for Video Recognition (2018): [[Paper]](https://arxiv.org/abs/1812.03982) [[Notes]](notes/SlowFast_Networks_for_Video_Recognition.pdf)
+- TSM Temporal Shift Module for Efficient Video Understanding (2018): [[Paper]](https://arxiv.org/abs/1811.08383) [[Notes]](notes/TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding.pdf)
+- Timeception for Complex Action Recognition (2018): [[Paper]](https://arxiv.org/abs/1812.01289) [[Notes]](notes/Timeception_for_Complex_Action_Recognition.pdf)
+- Non-local Neural Networks (2017): [[Paper]](https://arxiv.org/abs/1711.07971) [[Notes]](notes/Non-local_Neural_Networks.pdf)
+- Temporal Segment Networks for Action Recognition in Videos. (2017): [[Paper]](https://arxiv.org/abs/1705.02953) [[Notes]](notes/Temporal_Segment_Networks_for_Action_Recognition_in_Videos..pdf)
+- Quo Vadis Action Recognition A New Model and the Kinetics Dataset (2017): [[Paper]](https://arxiv.org/abs/1705.07750) [[Notes]](notes/Quo_Vadis_Action_Recognition_A_New_Model_and_the_Kinetics_Dataset.pdf)
+- A Closer Look at Spatiotemporal Convolutions for Action Recognition (2017): [[Paper]](https://arxiv.org/abs/1711.11248) [[Notes]](notes/A_Closer_Look_at_Spatiotemporal_Convolutions_for_Action_Recognition.pdf)
+- ActionVLAD Learning spatio-temporal aggregation for action classification (2017): [[Paper]](https://arxiv.org/abs/1704.02895) [[Notes]](notes/ActionVLAD_Learning_spatio-temporal_aggregation_for_action_classification.pdf)
+- Spatiotemporal Residual Networks for Video Action Recognition (2016): [[Paper]](https://arxiv.org/abs/1611.02155) [[Notes]](notes/Spatiotemporal_Residual_Networks_for_Video_Action_Recognition.pdf)
+- Deep Temporal Linear Encoding Networks (2016): [[Paper]](https://arxiv.org/abs/1611.06678) [[Notes]](notes/Deep_Temporal_Linear_Encoding_Networks.pdf)
+- Temporal Convolutional Networks for Action Segmentation and Detection (2016): [[Paper]](https://arxiv.org/abs/1611.05267) [[Notes]](notes/Temporal_Convolutional_Networks_for_Action_Segmentation_and_Detection.pdf)
+- Learning Spatiotemporal Features with 3D Convolutional Network (2014): [[Paper]](https://arxiv.org/abs/1412.0767) [[Notes]](notes/Learning_Spatiotemporal_Features_with_3D_Convolutional_Network.pdf)
+
 
 ## Domain Adaptation, Domain & Out-of-Distribution Generalization
 
