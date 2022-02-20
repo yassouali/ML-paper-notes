@@ -33,12 +33,12 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Semi-Supervised Learning by Augmented Distribution Alignment (2019): [[Paper]](https://arxiv.org/abs/1905.08171) [[Notes]](notes/80_SSL_aug_dist_align.pdf)
 - MixMatch: A Holistic Approach toSemi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1905.02249) [[Notes]](notes/45_mixmatch.pdf)
 - Unsupervised Data Augmentation (2019): [[Paper]](https://arxiv.org/abs/1904.12848) [[Notes]](notes/39_unsupervised_data_aug.pdf)
-- Interpolation Consistency Training forSemi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1903.03825) [[Notes]](notes/44_interpolation_consistency_tranining.pdf)
+- Interpolation Consistency Training for Semi-Supervised Learning (2019): [[Paper]](https://arxiv.org/abs/1903.03825) [[Notes]](notes/44_interpolation_consistency_tranining.pdf)
 - Deep Co-Training for Semi-Supervised Image Recognition (2018): [[Paper]](https://arxiv.org/abs/1803.05984) [[Notes]](notes/46_deep_co_training_img_rec.pdf)
 - Unifying semi-supervised and robust learning by mixup (2019): [[Paper]](https://openreview.net/forum?id=r1gp1jRN_4) [[Notes]](notes/42_mixmixup.pdf)
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms (2018): [[Paper]](https://arxiv.org/abs/1804.09170) [[Notes]](notes/37_realistic_eval_of_deep_ss.pdf)
 - Semi-Supervised Sequence Modeling with Cross-View Training (2018): [[Paper]](https://arxiv.org/abs/1809.08370) [[Notes]](notes/38_cross_view_semi_supervised.pdf)
-- Virtual Adversarial Training:A Regularization Method for Supervised andSemi-Supervised Learning (2017): [[Paper]](https://arxiv.org/abs/1704.03976) [[Notes]](notes/40_virtual_adversarial_training.pdf)
+- Virtual Adversarial Training (2017): [[Paper]](https://arxiv.org/abs/1704.03976) [[Notes]](notes/40_virtual_adversarial_training.pdf)
 - Mean teachers are better role models (2017): [[Paper]](https://arxiv.org/abs/1703.01780) [[Notes]](notes/56_mean_teachers.pdf)
 - Temporal Ensembling for Semi-Supervised Learning (2017): [[Paper]](https://arxiv.org/abs/1610.02242) [[Notes]](notes/55_temporal-ensambling.pdf)
 - Semi-Supervised Learning with Ladder Networks (2015): [[Paper]](https://arxiv.org/abs/1507.02672) [[Notes]](notes/33_ladder_nets.pdf)
@@ -76,7 +76,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Domain Adaptation, Domain & Out-of-Distribution Generalization
 
 - Rethinking Distributional Matching Based Domain Adaptation (2020): [[Paper]](https://arxiv.org/abs/2006.13352) [[Notes]](notes/98_rethinking_distributional_matching.pdf)
-- Transferability vs. Discriminability: Batch Spectral Penalization for ADA (2019): [[Paper]](http://proceedings.mlr.press/v97/chen19i.html) [[Notes]](notes/91_batch_spectral_normalization.pdf)
+- Transferability vs. Discriminability: Batch Spectral Penalization (2019): [[Paper]](http://proceedings.mlr.press/v97/chen19i.html) [[Notes]](notes/91_batch_spectral_normalization.pdf)
 - On Learning Invariant Representations for Domain Adaptation (2019): [[Paper]](https://arxiv.org/abs/1901.09453) [[Notes]](notes/90_on_learning_invariant_repr.pdf)
 - Universal Domain Adaptation (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) [[Notes]](notes/87_Universal_DA.pdf)
 - Transferable Adversarial Training (2019): [[Paper]](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf) [[Notes]](notes/86_TDT.pdf)
@@ -86,12 +86,16 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - What is the Effect of Importance Weighting in Deep Learning? (2018): [[Paper]](https://arxiv.org/abs/1812.03372) [[Notes]](notes/89_effect_of_importance_weighting.pdf)
 
 ## Explainability
-- What shapes feature representations Exploring datasets architectures and training (2020): [[Paper]](https://arxiv.org/abs/2006.12433) [[Notes]](notes/What_shapes_feature_representations_Exploring_datasets_architectures_and_training.pdf)
-- Transformer Interpretability Beyond Attention Visualization (2020): [[Paper]](https://arxiv.org/abs/2012.09838) [[Notes]](notes/Transformer_Interpretability_Beyond_Attention_Visualization.pdf)
-- Attention is not Explanation (2019): [[Paper]](https://arxiv.org/abs/1902.10186) [[Notes]](notes/Attention_is_not_Explanation.pdf)
+
 - Towards Interpreting and Mitigating Shortcut Learning Behavior of NLU Models (2021): [[Paper]](https://arxiv.org/abs/2103.06922) [[Notes]](notes/Towards_Interpreting_and_Mitigating_Shortcut_Learning_Behavior_of_NLU_Models.pdf)
+- Transformer Interpretability Beyond Attention Visualization (2020): [[Paper]](https://arxiv.org/abs/2012.09838) [[Notes]](notes/Transformer_Interpretability_Beyond_Attention_Visualization.pdf)
+- What shapes feature representations Exploring datasets architectures and training (2020): [[Paper]](https://arxiv.org/abs/2006.12433) [[Notes]](notes/What_shapes_feature_representations_Exploring_datasets_architectures_and_training.pdf)
+- Attention-based Dropout Layer for Weakly Supervised Object Localization (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) [[Notes]](notes/58_attention_based_dropout.pdf)
+- Attention is not Explanation (2019): [[Paper]](https://arxiv.org/abs/1902.10186) [[Notes]](notes/Attention_is_not_Explanation.pdf)
 - SmoothGrad removing noise by adding noise (2017): [[Paper]](https://arxiv.org/abs/1706.03825) [[Notes]](notes/SmoothGrad_removing_noise_by_adding_noise.pdf)
 - Axiomatic Attribution for Deep Networks (2017): [[Paper]](https://arxiv.org/abs/1703.01365) [[Notes]](notes/Axiomatic_Attribution_for_Deep_Networks.pdf)
+- Attention Branch Network: Learning of Attention Mechanism for Visual Explanation (2019): [[Paper]](https://arxiv.org/abs/1812.10025) [[Notes]](notes/57_attention_branch_netwrok.pdf)
+- Paying More Attention to Attention: Improving the Performance of CNNs via Attention Transfer (2016): [[Paper]](https://arxiv.org/abs/1612.03928) [[Notes]](notes/71_attention_transfer.pdf)
 
 ## Natural Language Processing (NLP)
 
@@ -99,7 +103,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 - Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning (2021): [[Paper]](https://arxiv.org/abs/2011.01403) [[Notes]](notes/104_supervised_const_for_fine_tuning.pdf)
 - BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning (2020): [[Paper]](https://arxiv.org/abs/1902.02671) [[Notes]](notes/99_bert_and_pals.pdf)
 - FreeLB: Enhanced Adversarial Training for Natural Language Understanding (2020): [[Paper]](https://arxiv.org/abs/1909.11764) [[Notes]](notes/101_freeLB.pdf)
-- MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification (2020): [[Paper]](https://arxiv.org/abs/2004.12239) [[Notes]](notes/100_mixtext.pdf)
+- MixText: Linguistically-Informed Interpolation for Semi-Supervised Text Classification (2020): [[Paper]](https://arxiv.org/abs/2004.12239) [[Notes]](notes/100_mixtext.pdf)
 
 ## Generative Modeling
 
@@ -142,10 +146,6 @@ This repo contains notes and short summaries of some ML related papers I come ac
 ## Information Retrieval
 - VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018): [[Paper]](https://arxiv.org/abs/1707.05612) [[Notes]](notes/77_vse++.pdf)
 
-## Visual Explanation & Attention
-- Attention Branch Network: Learning of Attention Mechanism for Visual Explanation (2019): [[Paper]](https://arxiv.org/abs/1812.10025) [[Notes]](notes/57_attention_branch_netwrok.pdf)
-- Attention-based Dropout Layer for Weakly Supervised Object Localization (2019): [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) [[Notes]](notes/58_attention_based_dropout.pdf)
-- Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer (2016): [[Paper]](https://arxiv.org/abs/1612.03928) [[Notes]](notes/71_attention_transfer.pdf)
 
 ## Graph Neural Network
 - Pixels to Graphs by Associative Embedding (2017): [[Paper]](https://arxiv.org/abs/1706.07365) [[Notes]](notes/36_pixels_to_graphs.pdf)
