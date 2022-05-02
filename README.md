@@ -1,4 +1,5 @@
 
+
 # ML Papers
 This repo contains notes and short summaries of some ML related papers I come across, organized by subjects and the summaries are in the form of PDFs.
 
@@ -99,6 +100,7 @@ This repo contains notes and short summaries of some ML related papers I come ac
 
 ## Natural Language Processing (NLP)
 
+- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021): [[Paper]](https://arxiv.org/abs/2107.13586) [[Notes]](notes/Pre-train,_Prompt,_and_Predict:_A_Systematic_Survey_of_Prompting_Methods_in_Natural_Language_Processing.pdf)
 - Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data (2020): [[Paper]](https://arxiv.org/abs/2010.11966) [[Notes]](notes/102_uda_with_naive_aug.pdf)
 - Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning (2021): [[Paper]](https://arxiv.org/abs/2011.01403) [[Notes]](notes/104_supervised_const_for_fine_tuning.pdf)
 - BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning (2020): [[Paper]](https://arxiv.org/abs/1902.02671) [[Notes]](notes/99_bert_and_pals.pdf)
